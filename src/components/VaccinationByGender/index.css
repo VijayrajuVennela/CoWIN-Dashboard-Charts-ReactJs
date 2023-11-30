@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.VaccinationByGenderContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c2b;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.Heading {
+  color: #94a3b8;
+  font-family: 'roboto';
+  font-weight: 500;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1.5;
+}
